@@ -17,6 +17,7 @@ Je m'appelle Gauthier Daniels et suis un développeur web fullstack freelance, s
 #### :snake: [SnakeJS](https://codepen.io/Harenos/pen/VRZXJb)
 > _Javascript (vanilla) - HTML5 - CSS3_
 
+<!--
 ### Mes compétences
 - Front-end
   - HTML5 / CSS3
@@ -45,3 +46,4 @@ Je m'appelle Gauthier Daniels et suis un développeur web fullstack freelance, s
   - Affinity Designer
   - Photoshop
   - Premiere Pro
+-->
