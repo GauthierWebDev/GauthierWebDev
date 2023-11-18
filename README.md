@@ -1,20 +1,20 @@
-# 👋 GauthierWebDev
+# 👋
 
 ## Qui suis-je ?
 
-Je m'appelle [Gauthier Daniels](https://gauthierdaniels.fr) et je suis un développeur Javascript amoureux des défis techniques.
+Je m'appelle [Gauthier Daniels](https://gauthierdaniels.fr) _(également appelé GauthierWebDev ou encore Jack)_ et je suis un développeur Javascript amoureux des défis techniques.
 
 ## Chantier en cours
 
 <details>
   <summary>🧪 AlchemiaJS</summary>
 
-Framework JS (Typescript) orienté objet incorporant :
+> Framework JS _(Typescript)_ orienté objet simple, léger et modulable.
 
-- Nunjucks
-- Décorateurs Typescript
-- CLI
-- ORM
+- [Nunjucks](https://mozilla.github.io/nunjucks/) _(Moteur de vues)_
+- Décorateurs Typescript _(Routes et méthodes HTTP)_
+- CLI _(Système maison nommé Alambic, inspiré de Artisan de Laravel)_
+- ORM _(Querybuilder)_
 
 </details>
 
