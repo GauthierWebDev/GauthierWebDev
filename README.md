@@ -8,7 +8,8 @@ Je m'appelle [Gauthier Daniels](https://gauthierdaniels.fr) _(également appelé
 
 <details>
   <summary>🧪 AlchemiaJS</summary>
-  🌐 [Repository AlchemiaJS](https://github.com/GauthierWebDev/AlchemiaJS)
+  
+  🌐 [Repository](https://github.com/GauthierWebDev/AlchemiaJS)
 
 > Framework JS _(Typescript)_ orienté objet simple, léger et modulable.
 
