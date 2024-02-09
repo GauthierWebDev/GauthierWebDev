@@ -8,13 +8,14 @@ Je m'appelle [Gauthier Daniels](https://gauthierdaniels.fr) _(également appelé
 
 <details>
   <summary>🧪 AlchemiaJS</summary>
+  🌐 [Repository AlchemiaJS](https://github.com/GauthierWebDev/AlchemiaJS)
 
 > Framework JS _(Typescript)_ orienté objet simple, léger et modulable.
 
 - [Nunjucks](https://mozilla.github.io/nunjucks/) _(Moteur de vues)_
 - Décorateurs Typescript _(Routes et méthodes HTTP)_
-- CLI _(Système maison nommé Alambic, inspiré de Artisan de Laravel)_
-- ORM _(Querybuilder)_
+- CLI _(Système maison nommé Alambic)_
+- Prisma _(ORM)_
 
 </details>
 
