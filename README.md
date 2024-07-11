@@ -2,22 +2,25 @@
 
 ## Qui suis-je ?
 
-Je m'appelle [Gauthier Daniels](https://gauthierdaniels.fr) _(également appelé GauthierWebDev ou encore Jack)_ et je suis un développeur Javascript amoureux des défis techniques.
+Je m'appelle [Gauthier Daniels](https://gauthierdaniels.fr) _(également appelé GauthierWebDev ou encore Jack)_ et je suis un développeur Javascript/Typescript amoureux des défis techniques.
 
 ## Chantier en cours
 
 <details>
-  <summary>🧪 AlchemiaJS</summary>
+  <summary>📚 Memento Dev</summary>
   
-  🌐 [Repository](https://github.com/GauthierWebDev/AlchemiaJS)
+  :octocat: [Repository](https://github.com/preparation-tp/memento-dev)
+  🌐 [Site en ligne](https://memento-dev.fr)
+  
+  > Documentation publique synthétisée à destination des candidats en préparation de titres professionnels dans le développement.
+</details>
 
-> Framework JS _(Typescript)_ orienté objet simple, léger et modulable.
-
-- [Nunjucks](https://mozilla.github.io/nunjucks/) _(Moteur de vues)_
-- Décorateurs Typescript _(Routes et méthodes HTTP)_
-- CLI _(Système maison nommé Alambic)_
-- Prisma _(ORM)_
-
+<details>
+  <summary>🎸 Band Flow</summary>
+  
+  🌐 [Site en ligne](https://bandflow.app)
+  
+  > Plateforme de gestion de groupe et d'organisation administrative pour les artistes et professionnels de la scène musicale.
 </details>
 
 ## Ma stack technique
