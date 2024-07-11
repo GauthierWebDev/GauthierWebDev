@@ -17,6 +17,7 @@ Je m'appelle [Gauthier Daniels](https://gauthierdaniels.fr) _(également appelé
 
 <details>
   <summary>🎸 Band Flow</summary>
+  
   > Plateforme de gestion de groupe et d'organisation administrative pour les artistes et professionnels de la scène musicale.
   
   🌐 [Site en ligne](https://bandflow.app)
